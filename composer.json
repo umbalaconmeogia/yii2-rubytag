@@ -1,0 +1,16 @@
+{
+    "name": "umbalaconmeogia/yii2-rubytag",
+	"type": "yii2-extension",
+	"description": "Display Japanese document with Furigata (ruby text), text direction (vertical or horizontal).",
+    "authors": [
+        {
+            "name": "Tran Trung Thanh",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"umbalaconmeogia\\yii2-rubytag": "src/"}
+    },
+	"keywords": ["yii2", "extension", "rubytag"],
+	"license": "MIT"
+}
