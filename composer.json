@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"umbalaconmeogia\\yii2-rubytag": "src/"}
+        "psr-4": {"umbalaconmeogia\\yii2-rubytag\\": "src/"}
     },
 	"keywords": ["yii2", "extension", "rubytag"],
 	"license": "MIT"
